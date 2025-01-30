@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "53d8ac5c7fe207f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b5d38f8b0f6064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9c64d211d66910f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/The Structure of DNA (B-Form).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Structure of DNA (B-Form)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4354f08a48780f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edccda05d96d714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f6bdac01a48385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f060fc519140200c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "926dae32493d5e1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4bf96778fb7292d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9641a814c6ff1193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be3884329e71e6a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/The Structure of DNA (B-Form).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Structure of DNA (B-Form)"
+            }
+          },
+          {
+            "id": "66d4a748abe880b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/The Structure of DNA (B-Form).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Structure of DNA (B-Form)"
+            }
+          },
+          {
+            "id": "a190445c39449e88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c320d5cb31683ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/The Structure of DNA (B-Form).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Structure of DNA (B-Form)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c9c64d211d66910f",
+  "lastOpenFiles": [
+    "notes",
+    "notes/The Structure of DNA (B-Form).md"
+  ]
+}
