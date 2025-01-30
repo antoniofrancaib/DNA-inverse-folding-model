@@ -130,18 +130,3 @@ Grooves allow regulatory proteins to recognize specific sites, controlling proce
 - **Accessibility:** Major/minor grooves enable protein interactions without unwinding the helix entirely.
 
 ---
-
-# 9. Conclusion
-
-DNA’s B-form double helix showcases a remarkable balance: a stable scaffold (phosphodiester backbone and hydrogen bonding) combined with a nuanced system (major and minor grooves) for specific or nonspecific protein binding.  
-
-By appreciating how antiparallel strands, complementary bases, and regular helical geometry come together, one gains a deeper intuition for why DNA can reliably store, replicate, and transmit genetic information while still allowing the cell’s machinery to access it. These core structural principles remain fundamental to understanding nearly all of molecular biology and genetics.  
-
-### Final Emphasis:  
-- Know the nucleotides: sugar, phosphate, base.  
-- Appreciate directionality and antiparallel design: 5′ → 3′ is crucial for replication and transcription.  
-- Recognize base-pairing rules: A–T and G–C maintain uniform helix geometry.  
-- Understand the stabilizing forces: hydrogen bonds + base stacking.  
-- Acknowledge the grooves: major groove for sequence-specific interactions, minor groove for more general interactions.  
-
-Armed with these insights, advanced learners can delve into more nuanced topics—like how particular proteins recognize and modulate DNA—and appreciate the sophistication underlying every strand of the genetic code.
