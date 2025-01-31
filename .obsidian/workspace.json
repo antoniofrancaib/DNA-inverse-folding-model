@@ -205,15 +205,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9f6bdac01a48385",
+  "active": "daa06f3a5ee1ad41",
   "lastOpenFiles": [
+    "src/data/sec_struct_utils.py",
+    "src/data/pdb_to_sec_struct.py",
+    "venv/lib/python3.12/site-packages/setuptools-75.8.0.dist-info/REQUESTED",
+    "venv/lib/python3.12/site-packages/setuptools-75.8.0.dist-info/INSTALLER",
+    "venv/lib/python3.12/site-packages/setuptools/__pycache__/windows_support.cpython-312.pyc",
+    "venv/lib/python3.12/site-packages/setuptools/__pycache__/wheel.cpython-312.pyc",
+    "venv/lib/python3.12/site-packages/setuptools/__pycache__/warnings.cpython-312.pyc",
+    "venv/lib/python3.12/site-packages/setuptools/__pycache__/version.cpython-312.pyc",
+    "venv/lib/python3.12/site-packages/setuptools/__pycache__/unicode_utils.cpython-312.pyc",
+    "venv/lib/python3.12/site-packages/setuptools/tests/__pycache__/textwrap.cpython-312.pyc",
+    "venv/lib/python3.12/site-packages/setuptools/tests/__pycache__/text.cpython-312.pyc",
     "notes/gRNAde-markmap.png",
-    "markmap.html",
     "markmap.svg",
     "notes/gRNAde-mapping.md",
     "notes/Questions.md",
     "notes/The Structure of DNA (B-Form).md",
-    "notes/Resources.md",
-    "notes"
+    "notes/Resources.md"
   ]
 }
