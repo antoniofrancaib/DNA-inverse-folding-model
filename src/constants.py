@@ -78,3 +78,10 @@ DOTBRACKET_TO_NUM = {
 RMSD_THRESHOLD = 2.0
 TM_THRESHOLD = 0.45
 GDT_THRESHOLD = 0.50
+
+RNA_ATOMS = ["P", "C4'", "N1", "N9", "O5'", "C5'", "O4'", "C3'", "O3'", "C2'", "O2'", "C1'"]
+RNA_NUCLEOTIDES = ["A", "G", "C", "U"]
+PURINES = ["A", "G"]
+PYRIMIDINES = ["C", "U"]
+FILL_VALUE = 1e-5
+DISTANCE_EPS = 1e-3

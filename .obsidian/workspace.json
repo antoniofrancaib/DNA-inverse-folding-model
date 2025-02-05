@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/gRNAde-mapping.md",
+                "file": "notes/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gRNAde-mapping"
+              "title": "Backlinks for Questions"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/gRNAde-mapping.md",
+                "file": "notes/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gRNAde-mapping"
+              "title": "Outgoing links from Questions"
             }
           },
           {
@@ -207,6 +207,10 @@
   },
   "active": "daa06f3a5ee1ad41",
   "lastOpenFiles": [
+    "notes/gRNAde-markmap.png",
+    "notes/The Structure of DNA (B-Form).md",
+    "notes/Questions.md",
+    "notes/gRNAde-mapping.md",
     "src/data/sec_struct_utils.py",
     "src/data/pdb_to_sec_struct.py",
     "venv/lib/python3.12/site-packages/setuptools-75.8.0.dist-info/REQUESTED",
@@ -217,12 +221,7 @@
     "venv/lib/python3.12/site-packages/setuptools/__pycache__/version.cpython-312.pyc",
     "venv/lib/python3.12/site-packages/setuptools/__pycache__/unicode_utils.cpython-312.pyc",
     "venv/lib/python3.12/site-packages/setuptools/tests/__pycache__/textwrap.cpython-312.pyc",
-    "venv/lib/python3.12/site-packages/setuptools/tests/__pycache__/text.cpython-312.pyc",
-    "notes/gRNAde-markmap.png",
     "markmap.svg",
-    "notes/gRNAde-mapping.md",
-    "notes/Questions.md",
-    "notes/The Structure of DNA (B-Form).md",
     "notes/Resources.md"
   ]
 }
